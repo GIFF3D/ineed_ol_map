@@ -5,6 +5,7 @@
     background-color: #fff; /* Set the background color of the element */
     border: 2px solid #47C9FB; /* Set the border of the element */
     border-radius: 10px; /* Set the border radius to make the corners curved */
+    margin-top: 10px;
     padding: 10px;
     font-family: "Varela Round", sans-serif;
     color: gray;
